@@ -16,8 +16,8 @@ const playfair = Playfair_Display({
 });
 
 export const metadata: Metadata = {
-  title: "Caviar - Los Angeles",
-  description: "Caviar is an Academy Award-winning production company with offices in Amsterdam, Brussels, London, Los Angeles + Paris.",
+  title: "IndoShree",
+  description: "Best Production House in Kolkata",
 };
 
 export default function RootLayout({
