@@ -39,7 +39,7 @@ export default function Footer() {
               <li><Link href="/privacy-us">Privacy Statement – USA</Link></li>
               <li><Link href="/privacy-eu">Privacy Statement – EU</Link></li>
               <li><Link href="/cookie">Cookie Policy</Link></li>
-              <li className="copyright">© 2026 INDOSHREE. All Rights Reserved</li>
+              <li className="copyright">© 2026 INDOSHREE. Prototyped by MotionGrace</li>
             </ul>
           </div>
         </div>
